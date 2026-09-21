@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ibrahim Reyad Youseff, Product Owner and Business Analyst</title>
+<meta name="description" content="Product Owner for multi-tenant SaaS platforms with 700+ developer-ready user stories, Agile delivery leadership and 7+ years in enterprise IT.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwQTIxNDgiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMS42IDApIiBmaWxsPSJub25lIiBzdHJva2U9IiM4RkIwRkYiIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNMTcgMTZ2MzIiLz4KICAgIDxwYXRoIGQ9Ik0zMSA0OFYxNmgxMGE4LjUgOC41IDAgMCAxIDAgMTdIMzEiLz4KICAgIDxwYXRoIGQ9Ik00MSAzM2wxMCAxNSIvPgogIDwvZz4KPC9zdmc+Cg==">
+<link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAC80lEQVRYhcWWS0hUURjHf+fOjK+MtHxliQ1D0arMQEhbKIEM9gAHBSFrEa1aVIt2QW1aBO1q4WIyqHChkFQTYymRUVlo+aYxdVSEytTymTqjc08LmZulMzo4j//qfq/z/3/nO+feK1iBeFNhiqqKi8BxEHuBLQQHU4BDIqvmdYqV/jqXNyC8D7FGcylQKWBrkEjXhIQevVSLZ4bqezQBsUZzqYDqlYJCjJ8e4TniGmjoE/GmwhSPqvSHuvM10DmXuXBYUVVxMQLkAAe2DEefUUCciAA5AKoUZ/WAKdBC094s8gos6HX6VTG328XwkIPWlgZmpyf8riOQWSLOaJaBkCuKjqs3qomJ9X9D3a4FbLUVtDbX+81b3QIQFR3L9Zu1mm1/cpd3jY+WCwxR65IvrxGDpewyUnpoa3kZmIBAMD72lamJUc1OStnNtoRkAIQQnLRc4MvnFuZ+T4dGQHNTnbY7XlLzqfMczbcAEB0Tx8HsfN6/ebpmvbJZAf9DSskL271/Os7I3O8zP+gCAFTVw+zMpGYbDNHhFZCWbiQ5NUOzJ35995m76TOQlJyOad8hzd6RnM6xwtMI8fez4uj+EDoBOblF5OQW+Yz3OT4y6Oz2GQ/JCLwY+TZITdUtvzmb3gFfGHR28cB6DbdrIbQCmpvsdHe8JT4+geKyS9qJz8jcT2JiGj9GhvzWb3oE42PfcPa20dH6CvsTq+bX6w2Unr6CTvHfY1DPQEuTnb6eT5q9c7eJvAJL+ARIKXlccxu3a17zHTOXk5q2JzwCACYnRqmzVWr2eqMIyTVcOYqlRTed7a+RqGvmBvxDslEkbk+luOwyz2orGB0Z9pkn4ozmSWBbKERsANOKgPYIkQM4FQkPI0YvpE2Zy1y4D3RFgH5Kp4+6o9DYuOQRSgnwM4zkUgrOzfTaxhUA14C9VyfVoyAdYSCfkoKS+YHntQA6r9c96Rxf3JVtNSy6fiBFAkJuBRETJNJZBN0IadUZosp/99u19/UfAaP/ECtfFO0AAAAASUVORK5CYII=">
+<link rel="apple-touch-icon" href="data:image/png;base64,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">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -178,7 +188,7 @@ html[dir="rtl"] .hero::before { clip-path: polygon(0 0, 80% 0, 100% 100%, 0 100%
   background: var(--surface-2);
 }
 .hero-name { font-family: 'Bricolage Grotesque', 'IBM Plex Sans Arabic', sans-serif; font-weight: 700; font-size: clamp(1.25rem, 2.4vw, 1.6rem); line-height: 1.2; color: var(--ink); }
-.hero-role { margin-top: 6px; color: var(--ink-2); font-size: .98rem; line-height: 1.5; max-width: 28em; }
+.hero-role { margin-top: 6px; color: var(--ink-2); font-size: 1rem; line-height: 1.5; }
 .hero h1 { margin-top: 30px; font-size: clamp(2.15rem, 5.2vw, 3.7rem); font-weight: 800; max-width: 17em; }
 .hero-lead { margin-top: 22px; max-width: 34em; color: var(--ink-2); font-size: 1.08rem; }
 .status { display: inline-flex; align-items: center; gap: 10px; margin-top: 26px; font-size: .95rem; font-weight: 500; }
@@ -311,6 +321,8 @@ html[dir="rtl"] .ltr-val { text-align: right; }
 
 .site-footer { padding-block: 28px; border-top: 1px solid var(--line); font-size: .9rem; color: var(--ink-2); }
 </style>
+</head>
+<body>
 
 <header class="site-header">
   <div class="wrap nav">
@@ -343,8 +355,8 @@ html[dir="rtl"] .ltr-val { text-align: right; }
             <span class="en">Ibrahim Reyad Youseff</span><span class="ar">إبراهيم رياض يوسف</span>
           </p>
           <p class="hero-role">
-            <span class="en">Product Owner, Business Analyst and Agile Delivery Lead</span>
-            <span class="ar">مالك منتج (Product Owner) ومحلل أعمال وقائد تسليم رشيق (Agile)</span>
+            <span class="en">Product Owner &amp; Business Analyst</span>
+            <span class="ar">مالك منتج ومحلل أعمال</span>
           </p>
         </div>
       </div>
@@ -656,3 +668,5 @@ html[dir="rtl"] .ltr-val { text-align: right; }
   });
 })();
 </script>
+</body>
+</html>
