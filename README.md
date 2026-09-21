@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Ibrahim Reyad Youseff, Product Owner and Business Analyst</title>
-<meta name="description" content="Product Owner for multi-tenant SaaS platforms with 700+ developer-ready user stories, Agile delivery leadership and 7+ years in enterprise IT.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -318,8 +311,6 @@ html[dir="rtl"] .ltr-val { text-align: right; }
 
 .site-footer { padding-block: 28px; border-top: 1px solid var(--line); font-size: .9rem; color: var(--ink-2); }
 </style>
-</head>
-<body>
 
 <header class="site-header">
   <div class="wrap nav">
@@ -352,8 +343,8 @@ html[dir="rtl"] .ltr-val { text-align: right; }
             <span class="en">Ibrahim Reyad Youseff</span><span class="ar">إبراهيم رياض يوسف</span>
           </p>
           <p class="hero-role">
-            <span class="en">Product Ownership &amp; Delivery</span>
-            <span class="ar">ملكية المنتج والتسليم (Product Ownership &amp; Delivery)</span>
+            <span class="en">Product Owner, Business Analyst and Agile Delivery Lead</span>
+            <span class="ar">مالك منتج (Product Owner) ومحلل أعمال وقائد تسليم رشيق (Agile)</span>
           </p>
         </div>
       </div>
@@ -362,8 +353,8 @@ html[dir="rtl"] .ltr-val { text-align: right; }
         <span class="ar">أحوّل الرؤية الاستراتيجية إلى منتجات عالية التأثير تتمحور حول المستخدم.</span>
       </h1>
       <p class="hero-lead">
-        <span class="en">Product Owner and Business Analyst for multi-tenant SaaS platforms (LMS, CRM, Events, Donations, Subscriptions), backed by 7+ years in enterprise IT. I connect stakeholders, design and engineering through structured discovery, 700+ developer-ready user stories and disciplined Scrum delivery.</span>
-        <span class="ar">مالك منتج ومحلل أعمال لمنصات SaaS متعددة المستأجرين (LMS وCRM والفعاليات والتبرعات والاشتراكات)، بخلفية تتجاوز 7 سنوات في إدارة تقنية المعلومات بالمؤسسات. أربط بين أصحاب المصلحة والتصميم والهندسة عبر اكتشاف منظّم، وأكثر من 700 قصة مستخدم (User Stories) جاهزة للمطورين، وتسليم Scrum منضبط.</span>
+        <span class="en">Product Owner for multi-tenant SaaS platforms (LMS, CRM, Events, Donations, Subscriptions), backed by 7+ years in enterprise IT. I connect stakeholders, design and engineering through structured discovery, 700+ developer-ready user stories and disciplined Scrum delivery.</span>
+        <span class="ar">مالك منتج لمنصات SaaS متعددة المستأجرين (LMS وCRM والفعاليات والتبرعات والاشتراكات)، بخلفية تتجاوز 7 سنوات في إدارة تقنية المعلومات بالمؤسسات. أربط بين أصحاب المصلحة والتصميم والهندسة عبر اكتشاف منظّم، وأكثر من 700 قصة مستخدم (User Stories) جاهزة للمطورين، وتسليم Scrum منضبط.</span>
       </p>
       <p class="status">
         <span class="en">Currently working, open to standout opportunities</span>
@@ -665,5 +656,3 @@ html[dir="rtl"] .ltr-val { text-align: right; }
   });
 })();
 </script>
-</body>
-</html>
